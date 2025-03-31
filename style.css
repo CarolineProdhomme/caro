@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap") ;
 
-@import url("components/container.css") ; 
-@import url("components/Galerie.css") ; 
-@import url("components/button.css") ; 
-@import url("components/banner.css") ; 
-@import url("components/idees.css") ; 
+@import url("Components/Container.css") ; 
+@import url("Components/Galerie.css") ; 
+@import url("Components/button.css") ; 
+@import url("Components/banner.css") ; 
+@import url("Components/idees.css") ; 
 
 
 
